@@ -1,13 +1,18 @@
 .primer  {
-    COLOR:RED ;
+    COLOR:black ;
     background: lightcoral
 }
 .segundo {
     ruby-align: left;
-    color: red;
+    color: black;
     background: lightcoral
 }
 .egt{
     color: blue;
-    border-style: 
+    border-style:
 }
+.primero¨{background-color: #f00;width:100%;height:100%}
+.segundo¨{background-color: #0f0; width: 50%; height:200px}
+.tercero{background-color: #00f; width:100%; heighth:50%;display: inline-block;}
+.cuarto{background-color: #000;
+width:100%;height:50%; display: inline;}
